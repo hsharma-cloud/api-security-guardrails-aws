@@ -137,3 +137,16 @@ terraform destroy
 
 Hari Sharma  
 https://github.com/hsharma-cloud
+
+---
+
+## 📸 Screenshots
+
+### Infrastructure Deployment (Terraform)
+![Terraform Deployment](screenshots/terraform-deployment.png)
+
+### API Success Response
+![API Success](screenshots/api-success-response.png)
+
+### Infrastructure Teardown (Terraform Destroy)
+![Terraform Destroy](screenshots/terraform-destroy.png)
